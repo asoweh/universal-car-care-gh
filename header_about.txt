@@ -1,0 +1,908 @@
+<title>About Us - Car Repair Services</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Roboto%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C800%2C800i%2C900%2C900i%7CPoppins%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C800%2C800i%2C900%2C900i%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;subset=latin%2Ccyrillic-ext%2Clatin-ext%2Ccyrillic%2Cgreek-ext%2Cgreek%2Cvietnamese&amp;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C800%2C800i%2C900%2C900i%7CPoppins%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C800%2C800i%2C900%2C900i%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;subset=latin%2Ccyrillic-ext%2Clatin-ext%2Ccyrillic%2Cgreek-ext%2Cgreek%2Cvietnamese&amp;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C800%2C800i%2C900%2C900i%7CPoppins%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C800%2C800i%2C900%2C900i%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;subset=latin%2Ccyrillic-ext%2Clatin-ext%2Ccyrillic%2Cgreek-ext%2Cgreek%2Cvietnamese&amp;display=swap" /></noscript><link rel="stylesheet" href="wp-content/cache/min/11/fc72a392470abd5b1f8254a19ff0dc5b.css" media="all" data-minify="1" />
+<link rel="canonical" href="index.html" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="About Us - Car Repair Services" />
+<meta property="og:description" content="A Reputation 25 Years in the Making The family has been involved in general automotive repair for over two decades, and the business continues to grow. Car Repair Service is a family owned and operated auto repair service in USA serving our local community and surrounding areas for 24 years. Our ASE certified technicians are [&hellip;]" />
+<meta property="og:url" content="https://smartdata.tonytemplates.com/car-repair-service-v4/demo2/about-us/" />
+<meta property="og:site_name" content="Car Repair Services" />
+<meta property="article:modified_time" content="2020-05-13T10:48:47+00:00" />
+<meta property="og:image" content="../wp-content/uploads/sites/11/2020/03/img-parallax02-img01.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:label1" content="Est. reading time" />
+<meta name="twitter:data1" content="2 minutes" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://smartdata.tonytemplates.com/car-repair-service-v4/demo2/#website","url":"https://smartdata.tonytemplates.com/car-repair-service-v4/demo2/","name":"Car Repair Services","description":"Just another car-repair-service Sites site","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://smartdata.tonytemplates.com/car-repair-service-v4/demo2/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://smartdata.tonytemplates.com/car-repair-service-v4/demo2/about-us/#primaryimage","inLanguage":"en-US","url":"../wp-content/uploads/sites/11/2020/03/img-parallax02-img01.png","contentUrl":"../wp-content/uploads/sites/11/2020/03/img-parallax02-img01.png","width":615,"height":501},{"@type":"WebPage","@id":"https://smartdata.tonytemplates.com/car-repair-service-v4/demo2/about-us/#webpage","url":"https://smartdata.tonytemplates.com/car-repair-service-v4/demo2/about-us/","name":"About Us - Car Repair Services","isPartOf":{"@id":"https://smartdata.tonytemplates.com/car-repair-service-v4/demo2/#website"},"primaryImageOfPage":{"@id":"https://smartdata.tonytemplates.com/car-repair-service-v4/demo2/about-us/#primaryimage"},"datePublished":"2017-03-08T07:18:04+00:00","dateModified":"2020-05-13T10:48:47+00:00","breadcrumb":{"@id":"https://smartdata.tonytemplates.com/car-repair-service-v4/demo2/about-us/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://smartdata.tonytemplates.com/car-repair-service-v4/demo2/about-us/"]}]},{"@type":"BreadcrumbList","@id":"https://smartdata.tonytemplates.com/car-repair-service-v4/demo2/about-us/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://smartdata.tonytemplates.com/car-repair-service-v4/demo2/"},{"@type":"ListItem","position":2,"name":"About Us"}]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='https://fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Car Repair Services &raquo; Feed" href="../feed/index.rss" />
+<link rel="alternate" type="application/rss+xml" title="Car Repair Services &raquo; Comments Feed" href="../comments/feed/index.rss" />
+<style type="text/css">img.wp-smiley,
+img.emoji {
+  display: inline !important;
+  border: none !important;
+  box-shadow: none !important;
+  height: 1em !important;
+  width: 1em !important;
+  margin: 0 .07em !important;
+  vertical-align: -0.1em !important;
+  background: none !important;
+  padding: 0 !important;
+}
+</style>
+
+
+
+
+
+
+
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='../wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen%EF%B9%96ver=5.4.1.css' type='text/css' media='only screen and (max-width: 768px)' />
+
+<style id='woocommerce-inline-inline-css' type='text/css'>.woocommerce form .form-row .required { visibility: visible; }
+</style>
+
+
+
+
+<style id='elementor-frontend-inline-css' type='text/css'>@font-face{font-family:eicons;src:url(../wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons%EF%B9%965.10.0.eot);src:url(../wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons%EF%B9%965.10.0.eot#iefix) format("embedded-opentype"),url(../wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons%EF%B9%965.10.0.woff2) format("woff2"),url(../wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons%EF%B9%965.10.0.woff) format("woff"),url(../wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons%EF%B9%965.10.0.ttf) format("truetype"),url(../wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons%EF%B9%965.10.0.svg#eicon) format("svg");font-weight:400;font-style:normal}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style id='car-repair-services-style-inline-css' type='text/css'>body{
+font-weight:400;
+}
+
+
+@media (min-width: 992px){
+header.page-header-1 .navbar-nav > li > a,
+header.page-header-2 .navbar-nav > li > a{
+  font-family:Poppins;
+  font-weight:600;
+  color:#3a3a3a;
+}
+}
+
+#pageTitle.page-title-wrapper {
+background-image: url(../wp-content/uploads/sites/11/2020/03/header-photo-bg02.jpg);
+}
+body:not(.home) #pageContent {
+padding-top: 100px;
+}
+@media (min-width: 992px){
+body:not(.home) #pageContent {
+  padding-top: 120px;
+}
+}
+
+h2{
+font-family:Muli;
+font-weight:600;
+font-size:34px;
+line-height:40px;
+color:#000;
+}
+h4{
+font-family:Muli;
+font-size:36px;
+line-height:32px;
+color:#000;
+}
+h5{
+font-family:Muli;
+font-weight:700;
+font-size:20px;
+line-height:28px;
+color:#000;
+}
+a{  }
+a:hover{  }
+.car_repair_services_wc_products_tab.vc_tta.vc_tta-style-classic .vc_tta-tab a{  }
+.widget-title, .title-contact-info, .widgettitle{
+font-family:Muli;
+font-size:24px;
+color:#000;
+}
+
+body{
+}
+
+
+/*anchor*/
+
+dl, dd, a{
+}
+
+a:hover,h1 a:hover, h2 a:hover,.column-right .side-block ul li a:hover{
+}
+
+/*heading*/
+.loader-circle-2{
+border-right-color:#ffc513;
+}
+.loader .line:nth-child(6),.loader .subline:nth-child(11){
+background:#ffc513;
+}
+.loader .needle:before{
+border-color: transparent #ffc513 transparent transparent;
+}
+
+
+h1, h2.h-lg,.modal-header a:hover{
+}
+.block.bg-1 h1, .block.bg-2 h1, .block.bg-3 h1, .block.bg-1 h2, .block.bg-2 h2, .block.bg-3 h2, .block.bg-1 h3, .block.bg-2 h3, .block.bg-3 h3, .black-bg-color h2.h-lg,
+.banner-under-slider h2, .banner-under-slider h3,
+.banner-under-slider h4,.block.bg-dark h1, .block.bg-dark h2, .block.bg-dark h3,
+.page-footer .footer-phone, .page-footer .footer-phone h2{
+}
+.side-block{
+border-bottom:1px solid#ffc513;
+}
+.vc_toggle,.divider-line{
+border-top:1px solid#ffc513;
+}
+.promo-banner{
+border:2px dotted#ffc513;
+}
+.quote-simple {
+border-left:4px solid#ffc513;
+}
+
+.color, a.color, a.color:hover, a.color:focus,
+.filters-by-category ul li a:hover,
+.filters-by-category ul li a.selected,
+.blog-post .post-meta li i.icon,
+#appointmentForm.modal .modal-dialog .modal-header .close,
+.slick-prev:hover:before, .slick-next:hover:before,.reply a{
+}
+
+.block.bg-1, .block.bg-2, .block.bg-3,
+block.bg-1 a, .block.bg-2 a, .block.bg-3 a,.banner-under-slider,
+.services-angle-text h5,header .header-phone,header .header-right .address{
+}
+.text-icon .icon-wrapper > span i{
+}
+.vertical-tab-menu .list-group > a i.icon,
+.stat-box .icon,.contact-info > .icon,.social-links ul li a,
+.category-list > li:after,.services-block-alt .services-link,.promo-banner .icon-lg,.page-footer .contact-info .icon,
+.page-footer .social-links ul li a,.breadcrumbs .breadcrumb a:hover,
+.link a,
+.post-preview .post-title a:hover{
+}
+
+@media (max-width: 991px) {
+#slide-nav #slidemenu .close-menu,
+header.page-header .navbar-toggle {
+}
+}
+
+a:hover,h1 a:hover, h2 a:hover,.column-right .side-block ul li a:hover{
+}
+/*heading*/
+h1, h2, h3, h4, h5, h6 ,h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{
+}
+
+h1 b, h2 b,h3 b,h3 b{
+}
+
+.back-to-top a,
+.services-block .image,
+.services-angle-text .number,
+.text-icon .icon-wrapper > span,
+.testimonials-item,td#today,
+.service-icon .icon-wrapper span,
+.services-block-alt .image i,.image-scale-color:after,.text-icon-sm .icon-wrapper > span,
+.woocommerce #slide-nav #slidemenu.slide-active .search-container button.button,
+.service-icon .icon-wrapper .fack_icon_div,.services-block-alt .image .fack_icon_div,
+body .search-container:hover .button,
+.calendar_wrap td#today{
+background-color: #ffc513!important;
+}
+header .heade-mobile .search-container .button:hover {
+color:#ffc513;
+}
+body .services-block-alt .image i,.services-block-alt .image .fack_icon_div {
+-webkit-box-shadow: 0 0 0 20px #ffc513;
+-moz-box-shadow: 0 0 0 20px #ffc513;
+box-shadow: 0 0 0 20px #ffc513;
+}
+.services-block-alt .image:hover i ,.services-block-alt .image:hover .fack_icon_div{
+-webkit-box-shadow: 0 0 0 0px #ffc513;
+-moz-box-shadow: 0 0 0 0px #ffc513;
+box-shadow: 0 0 0 0px #ffc513;
+}
+
+
+header.page-header .appointment,header.page-header .appointment:after,.modal-header .appointment:after{
+border-color: transparent #ffc513 transparent transparent;
+}
+
+.input-custom:hover,
+.input-custom:focus,
+.input-custom.focus,
+.table .cell-marker,
+.coupon-print-inside{
+border-color:#ffc513;
+}
+header.page-header .appointment,.modal-header .appointment,.table .cell-marker{
+background-color:#ffc513;
+}
+
+.color, a.color, a.color:hover, a.color:focus,
+.services-block .service.dark h2, .services-block .service.dark h3,
+.services-block .service.dark h4,header.page-header-1 .header-phone .phone-number .code,
+.marker-list > li:after,header.page-header-1 .header-right .address span,
+.testimonials-item .inside .rating,.services-block-alt .caption .title,
+.testimonial-card:after,.icon-star:before,
+blockquote::before{
+color:#ffc513;
+}
+.page-footer .footer-phone .number {
+color:#ffc513;
+}
+
+/*Menu Color*/
+@media (min-width: 992px){
+header.page-header-1 .navbar-nav>li>a:after
+{
+  background-color:#ffc513;
+  color:#3a3a3a;
+}
+}
+
+/*Slider Color*/
+
+#mainSlider .slide-content h4,
+#mainSlider .slide-content p{
+}
+#mainSlider .slide-content h3 {
+color:#ffc513;
+}
+#mainSlider .slick-prev:before,
+#mainSlider .slick-next:before{
+}
+#mainSlider .slick-prev:hover:before,
+#mainSlider .slick-next:hover:before{
+}
+.slick-dots li.slick-active button,
+.slick-dots li.slick-active button:hover{
+}
+
+/*Button*/
+
+
+
+.btn:before, .btn:after,.column-right .widget_search button:hover,input[type="submit"]:hover,
+.tags-list li a:hover,.tagcloud a:hover{
+}
+.view-more-testimonial:hover{
+
+}
+button#place_order,
+.btn-invert {
+background:#ffc513;
+}
+.btn-lg.btn-invert.view-more-testimonial{
+background-color:#ffc513;
+}
+.blog-post a.more-link:before, .blog-post a.more-link:after {
+background-color:#ffc513!important;
+}
+.btn.btn-border{
+}
+
+
+.btn:hover, .btn.active, .btn:active, .btn.focus, .btn:focus{
+}
+.btn-invert:hover, .btn-invert.active, .btn-invert:active, .btn-invert.focus, .btn-invert:focus{
+}
+.btn::before, .btn::after {
+}
+
+.btn.btn-invert::before, .btn.btn-invert::after {
+}
+
+.btn.btn-lg.btn-full.false-submit {
+}
+
+.btn.btn-lg.btn-full.false-submit:hover {
+}
+.btn.btn-lg.btn-full.false-submit span{
+}
+.btn.btn-lg.btn-full.false-submit:hover span {
+}
+
+.btn::before, .btn::after, .column-right .widget_search button:hover, input[type="submit"]:hover, .tags-list li a:hover,
+#slide-nav #slidemenu.slide-active .search-container .button, .tagcloud a:hover {
+background:#ffc513!important;
+}
+@media (max-width: 991px) {
+.header-info-toggle [class*='icon-']:hover {
+}
+}
+.coupon-text4 {
+color:#ffc513;
+}
+.coupon-text5 {
+color:#ffc513;
+}
+.coupon .coupon-all::after {
+border-color:#ffc513 transparent transparent;
+}
+.coupon .coupon-all {
+background:#ffc513;
+}
+.coupon-print-inside{
+border:1px solid #ffc513;
+}
+.coupon .coupon-all {
+color:#ffc513;
+}
+.coupon-text2{
+color:#ffc513;
+}
+.coupon .coupon-all:hover::after {
+border-top-color:#ffc513;
+}
+.coupon .coupon-all:hover {
+background-color:#ffc513;
+color:#ffc513;
+}
+
+header .header-cart:hover a.icon, header .header-cart.opened a.icon {
+color:#ffc513!important;
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range {
+background-color:#ffc513;
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+background-color:#ffc513;
+}
+.woocommerce span.onsale,header .header-cart .badge{
+background-color:#ffc513;
+}
+
+.woocommerce .star-rating span::before ,.woocommerce .comment-form p.stars a,.woocommerce-tabs .tabs.wc-tabs li.active a {
+color:#ffc513!important;
+}
+.wc-tabs > li > a::after{
+background:#ffc513!important;
+}
+.woocommerce-pagination .page-numbers .page-numbers.current,
+.woocommerce nav.woocommerce-pagination ul li a:focus,
+body.woocommerce nav.woocommerce-pagination ul li a:hover,
+.woocommerce nav.woocommerce-pagination ul li span.current{
+color:#ffc513!important;
+}
+.filters-row .page-numbers .current{
+background-color:transparent !important;
+color:#F6931C;
+}
+
+header.page-header-2 a.appointment:after {
+border-color: transparent #ffc513 transparent transparent;
+}
+header.page-header-2 a.appointment {
+background-color:#ffc513;
+}
+
+
+@media (min-width: 992px){
+header.page-header-2 .navbar-nav > li.current-menu-item > a:after, header.page-header-2 .navbar-nav > li:hover > a:after {
+  background-color:#ffc513;
+}
+}
+header.page-header-2 .search-container:hover .button {
+background-color:#ffc513;
+}
+
+#mainSlider .banner-btn, #mainSlider .banner-btn:focus{
+border: 2px solid #ffc513;
+}
+.services-tabs .services-tabs-icons > span.active {
+background-color:#ffc513;
+
+}
+.icons-tabs .nav-tabs > li.active > a [class*='icon-'], .icons-tabs .nav-tabs > li > a:hover [class*='icon-'] {
+color:#ffc513;
+
+}
+.icons-tabs .nav-tabs > li > a::after {
+background:#ffc513;
+
+}
+.marker-list-sm-1 > li:after {
+color:#ffc513;
+
+}
+.how-works-number {
+color:#ffc513;
+
+}
+
+.banner-free .banner-text-1 {
+background-color:#ffc513;
+
+}
+.banner-free .banner-text-1:after {
+border-color: #ffc513 transparent transparent transparent;
+}
+.pricing-box-header {
+background-color:#ffc513;
+
+}
+.text-icon-hor2 .icon-wrapper2 {
+color:#ffc513;
+
+}
+#appointmentForm.modalform-sm .wpcf7-submit.btn {
+border-color:#ffc513;
+
+}
+body .textarea-custom:hover,
+body .textarea-custom:focus,
+body .input-custom:hover,
+body .input-custom.focus,
+body .wpcf7-form-control.wpcf7-textarea:hover,
+body .wpcf7-form-control.wpcf7-textarea:focus {
+border-color: #ffc513!important;
+
+}
+.bootstrap-datetimepicker-widget table td.active,
+.bootstrap-datetimepicker-widget table td.active:hover {
+background-color: #ffc513!important;
+
+}
+div.wpcf7-validation-errors, div.wpcf7-acceptance-missing {
+border-color:#ffc513;
+}
+@media (min-width: 992px){
+header.page-header-2 .navbar-nav .dropdown-menu {
+  border-bottom-color:#ffc513;
+}
+}
+.pricing-box-footer .mark-icon {
+color:#ffc513;
+
+}
+@media (max-width: 991px){
+header.page-header-2 .navbar-toggle:hover {
+  color:#ffc513;
+
+}
+}
+
+
+.filters-row .page-numbers .current {
+color:#ffc513;
+
+}
+.estimator-panel .col-title [class*='icon'] {
+color:#ffc513;
+
+}
+.service-grid-item:hover .service-grid-item-title {
+background-color:#ffc513;
+
+}
+.service-grid-item-title:after {
+border-color: transparent transparent #ffc513 transparent;
+}
+@media (max-width: 767px){
+.estimator-panel .panel-toggle {
+  color:#ffc513;
+
+}
+}
+.car-faq-text .vc_toggle_title:hover h4 {
+color:#ffc513;
+
+}
+.filters-by-category ul li a:hover, .filters-by-category ul li a.selected {
+color:#ffc513;
+
+}
+.filters-by-category ul li a:after {
+background-color:#ffc513;
+
+}
+.twentytwenty-handle {
+background-color:#ffc513;
+
+}
+.section-blog .item .item__img .icon {
+background-color:#ffc513;
+
+}
+.slick-dots li.slick-active button, .slick-dots li.slick-active button:hover {
+background:#ffc513;
+
+}
+.block-title .title-separator {
+background-color:#ffc513;
+
+}
+.block-title .title-separator:before, .block-title .title-separator:after {
+background-color:#ffc513;
+
+}
+.faq-accordion .faq__title:before {
+background-color:#ffc513;
+
+}
+.info02 .info02__icon {
+color:#ffc513;
+
+}
+.blog-post .post-meta li.author .author__text {
+color:#ffc513;
+
+}
+.promo01 .promo01-header {
+background-color:#ffc513;
+
+}
+.promo01 .promo01-content .text-02 {
+color:#ffc513;
+
+}
+.services-block-alt .caption .title a:hover {
+color:#ffc513;
+
+}
+.services-block-alt:before {
+background-color:#ffc513;
+
+}
+.nav-pills > li.active > a {
+color: #ffc513 !important;
+
+}
+.nav-aside ul li a:before {
+background-color:#ffc513;
+
+}
+.address-info .address-info__icon {
+color:#ffc513;
+
+}
+.services-box .services-box__icon {
+color:#ffc513;
+
+}
+.card01 .card01__wrapper:before {
+background-color:#ffc513;
+
+}
+.card01 .card01__title a:hover {
+color:#ffc513;
+
+}
+.card01 .card01__social-icon li a:hover {
+background-color:#ffc513;
+
+}
+.marker-list-sm>li:after {
+color:#ffc513;
+
+}
+.promo-01 .promo-01__title .text-02 {
+color:#ffc513;
+
+}
+.box01 .box01__icon:before {
+background-color:#ffc513;
+
+}
+.promo02 .promo02__marker {
+color:#ffc513;
+
+}
+.stat-box02 .stat-box02__value {
+color:#ffc513;
+
+}
+.text-icon:before {
+background-color:#ffc513;
+
+}
+.video-block .video-block__icon span {
+background-color:#ffc513;
+
+}
+.stat-box02 .stat-box02__value:before {
+background-color:#ffc513;
+
+}
+.pricing-box02:before {
+background-color:#ffc513;
+
+}
+.pricing-box02.slick-center .pricing-box02__price, .pricing-box02.item-active .pricing-box02__price {
+color:#ffc513;
+
+}
+.newsbox .newsbox__title a:hover {
+color:#ffc513;
+
+}
+.newsbox .newsbox__data .icon-marker {
+background-color:#ffc513;
+
+}
+.newsbox .newsbox__link:hover {
+color:#ffc513;
+
+}
+.box-custom01 .box-custom01__icon .icon {
+color:#ffc513;
+
+}
+.video-wrapper .video-block__icon span {
+background-color:#ffc513;
+
+}
+.services-tabs .services-tabs-nav > li a:before {
+background-color:#ffc513;
+
+}
+.start-box02 .start-box02__text {
+border-color:#ffc513;
+}
+.pt-slick-button .slick-arrow:hover {
+color:#ffc513;
+
+}
+.banner-service .banner-text-3 i.icon {
+color:#ffc513;
+}
+.services-title .title-separator {
+background-color:#ffc513;
+
+}
+.estimate-current-change {
+color:#ffc513;
+}
+.estimate-part-price-price {
+color:#ffc513;
+}
+.estimate-part-close {
+color:#ffc513;
+}
+.estimate-table-info-list .round-icon {
+color:#ffc513;
+border-color:#ffc513;
+}
+.estimator-panel .form-group label a, div.rwmb-input .form-group label a {
+color:#ffc513;
+}
+#fullServices.modal .modal-header .close {
+color:#ffc513;
+}
+.services-title .title-separator:before, .services-title .title-separator:after {
+background-color:#ffc513;
+
+}
+
+<!-- Custom-color fix -->
+.btn:not([data-action]).btn-border {
+border-color:#ffc513;
+}.social-links ul li a {
+  color:#ffc513;
+  }.gallery-item .hover .view:before {
+    border-color:#ffc513;
+    }@media (max-width: 991px){
+      header .heade-mobile .navbar-toggle:hover span {
+        background-color:#ffc513;
+        }}@media (max-width: 991px){
+          .header-info-toggle [class*='icon-']:hover {
+            color:#ffc513;
+            }}#appointmentForm.modal .modal-dialog .modal-header .close {
+              color:#ffc513;
+            }
+
+            .btn-invert:before, .btn-invert:after {
+              background-color: #2c2c2c !important;
+            }
+
+
+          </style>
+
+
+
+          <script type='text/javascript' src='../wp-includes/js/jquery/jquery.min%EF%B9%96ver=3.5.1.js' id='jquery-core-js'></script>
+
+
+
+
+          <link rel="https://api.w.org/" href="../wp-json/index.json" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/1520.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php%EF%B9%96rsd.xml" />
+          <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" />
+          <meta name="generator" content="WordPress 5.7.3" />
+          <meta name="generator" content="WooCommerce 5.4.1" />
+          <link rel='shortlink' href='index.html' />
+          <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7smartdata.tonytemplates.com%EA%A4%B7car-repair-service-v4%EA%A4%B7demo2%EA%A4%B7about-us%EA%A4%B7.json" />
+          <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed%EF%B9%96url=https%EF%B9%95%EA%A4%B7%EA%A4%B7smartdata.tonytemplates.com%EA%A4%B7car-repair-service-v4%EA%A4%B7demo2%EA%A4%B7about-us%EA%A4%B7&amp;format=xml.xml" />
+          <!-- Facebook Pixel Code -->
+          <script>
+          !function(f,b,e,v,n,t,s)
+          {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '1075525552878436');
+            fbq('track', 'PageView');
+          </script>
+          <noscript><img height="1" width="1" style="display:none"
+            src="https://www.facebook.com/tr?id=1350683678613106&amp;ev=PageView&amp;noscript=1"
+            /></noscript>
+            <!-- End Facebook Pixel Code -->
+            <meta name="framework" content="Redux 4.2.14" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+            <style type="text/css" id="wp-custom-css">.base-color {
+              color: #ffc513;
+            }
+            </style>
+          </head>
+
+          <body class="page-template-default page page-id-1520 wp-embed-responsive layout-2 theme-car-repair-services woocommerce-no-js elementor-default elementor-kit-1944 elementor-page elementor-page-1520">
+            <!-- mobile menu -->
+            <nav class="panel-menu" id="mobile-menu">
+              <ul>
+              </ul>
+              <div class="mm-navbtn-names">
+                <div class="mm-closebtn">Close</div>
+                <div class="mm-backbtn">Back</div>
+              </div>
+            </nav>
+            <!-- Loader -->
+            <div id="loader-wrapper">
+              <div class="loader">
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="subline"></div>
+                <div class="subline"></div>
+                <div class="subline"></div>
+                <div class="subline"></div>
+                <div class="subline"></div>
+                <div class="loader-circle-1">
+                  <div class="loader-circle-2"></div>
+                </div>
+                <div class="needle"></div>
+                <div class="loading">Loading</div>
+              </div>
+            </div>
+            <!-- //Loader -->
+            <!-- Header -->
+            <header class="page-header-2 sticky">
+              <div class="header-info-mobile">
+                <div class="header-info-mobile-inside">
+                  <p><i class="icon icon-locate"></i>
+                    2605 Caton Hill Road, Woodbridge, VA 22192            </p>
+                    <p><i class="icon icon-phone"></i>
+                      800-123-4567, Fax: 718-724-3312            </p>
+                      <p><i class="icon icon-email"></i>
+                        officeone@youremail.com            </p>
+                        <p><i class="icon icon-clock"></i>
+                          Mon-Fri: 9:00 am – 5:00            </p>
+                        </div>
+                      </div>
+
+                      <div class="header-topline">
+                        <div class="header-info-toggle"><i class="icon-arrow_down js-info-toggle"></i></div>
+
+                        <div class="header-right-top">
+                          <a href="#" class="appointment" data-toggle="modal" data-target="#appointmentForm"><i class="icon-shape icon"></i>
+                            <span>Appointment</span>                        </a>
+                          </div>
+
+                          <div class="container">
+                            <div class="row-flex">
+                              <div class="col-left"><i class="icon icon-clock"></i>Monday-Saturday <span class="custom-color">7:00AM - 6:00PM</span></div>
+                              <div class="col-center"><i class="icon icon-phone"></i><span class="hidden-md">Schedule Your Appointment</span> <a href="tel:1-800-123-4567" class="header-phone">1-800-123-4567</a></div>
+
+                              <div class="col-right"><i class="icon icon-locate"></i>2605 Caton Hill Road, Woodbridge, VA 22192</div>
+                            </div>
+                          </div>
+
+                        </div>
+
+                        <nav class="navbar" id="slide-nav">
+                          <div class="container">
+                            <div class="header-row">
+                              <div class="logo">
+                                <a href="../index.html">
+                                  <img src="../wp-content/uploads/sites/11/2020/05/logo.png" alt="Logo">
+                                </a>
+                              </div>
+
+                              <div id="slidemenu">
+                                <div class="close-menu"><i class="icon-close-cross"></i></div>
+                                <ul id="menu-primary-menu" class="nav navbar-nav"><li id="nav-menu-item-1566" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-home"><a href="../index.html" class="menu-link main-menu-link">Home</a></li>
+                                  <li id="nav-menu-item-1569" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1520 current_page_item menu-item-has-children dropdown"><a href="index.html" class="menu-link main-menu-link">About Us<span class="ecaret"></span></a>
+                                    <ul class="dropdown-menu menu-odd  menu-depth-1">
+                                      <li id="nav-menu-item-2485" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="../testimonial/index.html" class="menu-link sub-menu-link">Testimonials</a></li>
+                                      <li id="nav-menu-item-2486" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="../faq/index.html" class="menu-link sub-menu-link">FAQ</a></li>
+                                    </ul>
+                                  </li>
+                                  <li id="nav-menu-item-1568" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown"><a href="../services/index.html" class="menu-link main-menu-link">Services<span class="ecaret"></span></a>
+                                    <ul class="dropdown-menu menu-odd  menu-depth-1">
+                                      <li id="nav-menu-item-1521" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-car_services"><a href="../car-services/exhaust-system/index.html" class="menu-link sub-menu-link">Preventative Maintenance</a></li>
+                                      <li id="nav-menu-item-1522" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-car_services"><a href="../car-services/would-you-like-to/index.html" class="menu-link sub-menu-link">Brake Repair &#038; Service</a></li>
+                                      <li id="nav-menu-item-1523" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-car_services"><a href="../car-services/exhaustsystem-2/index.html" class="menu-link sub-menu-link">Transmission Service &#038; Repair</a></li>
+                                      <li id="nav-menu-item-1524" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-car_services"><a href="../car-services/tires-wheels/index.html" class="menu-link sub-menu-link">Engine Services</a></li>
+                                      <li id="nav-menu-item-1525" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-car_services"><a href="../car-services/brakerepair-service-2/index.html" class="menu-link sub-menu-link">Exhaust System</a></li>
+                                      <li id="nav-menu-item-1526" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-car_services"><a href="../car-services/preventative-maintenance-3/index.html" class="menu-link sub-menu-link">Tires &#038; Wheels</a></li>
+                                    </ul>
+                                  </li>
+                                  <li id="nav-menu-item-1575" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="../pricing-coupons/index.html" class="menu-link main-menu-link">Pricing &#038; Coupons</a></li>
+                                  <li id="nav-menu-item-1565" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown"><a href="../blog/index.html" class="menu-link main-menu-link">Blog<span class="ecaret"></span></a>
+                                    <ul class="dropdown-menu menu-odd  menu-depth-1">
+                                      <li id="nav-menu-item-1577" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="../blog/index.html" class="menu-link sub-menu-link">Blog Classic</a></li>
+                                      <li id="nav-menu-item-1576" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-post"><a href="../2017/04/19/troubleshooting-anti-lock-brakes/index.html" class="menu-link sub-menu-link">Blog Single post</a></li>
+                                    </ul>
+                                  </li>
+                                  <li id="nav-menu-item-1571" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown"><a href="../gallery/index.html" class="menu-link main-menu-link">Gallery<span class="ecaret"></span></a>
+                                    <ul class="dropdown-menu menu-odd  menu-depth-1">
+                                      <li id="nav-menu-item-2184" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="../gallery/index.html" class="menu-link sub-menu-link">Gallery Classic</a></li>
+                                      <li id="nav-menu-item-2183" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="../gallery-of-%D1%81omparisons/index.html" class="menu-link sub-menu-link">Gallery of Сomparisons</a></li>
+                                    </ul>
+                                  </li>
+                                  <li id="nav-menu-item-1573" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="../shop/index.html" class="menu-link main-menu-link">Shop</a></li>
+                                  <li id="nav-menu-item-1567" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="../contacts/index.html" class="menu-link main-menu-link">Contacts</a></li>
+                                </ul>                    </div>
+                                <div class="header-row-right">
+                                  <div class="search-container-wrap">
+
+                                    <div class="search-container">
+                                      <form role="search" method="get" action="../index.html">
+
+                                        <input type="search" id="search-form-6142b5964de96" placeholder="Search &hellip;" value="" name="s" />
+                                        <button type="submit" class="button"><i class="icon icon-search"></i></button>
+
+                                      </form>
+                                    </div>                        </div>
+                                    <!-- start mini  cart-->
+
+                                    <div class="header-cart">
+                                      <a class="cart-contents icon icon-shop-cart" href="javascript:void(0)"></a>
+                                      <div class="header-cart-dropdown">
+
+                                        <div class="prd-sm">
+
+
+                                          <span class="empty">No products in the cart .</span>
+
+
+                                        </div>
+
+
+
+                                      </div>
+                                    </div>
+                                    <button type="button" class="navbar-toggle"><i class="icon icon-mobile_menu"></i></button>
+                                  </div>
+                                </div>
+                              </div>
+                            </nav>
+                          </header> -->
