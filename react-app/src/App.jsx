@@ -7,6 +7,7 @@ import Services from './pages/Services';
 import Gallery from './pages/Gallery';
 import GalleryCompleted from './pages/GalleryCompleted';
 import Contact from './pages/Contact';
+import NotFound from './pages/NotFound';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
             <Route path="gallery" element={<Gallery />} />
             <Route path="gallery-completed" element={<GalleryCompleted />} />
             <Route path="contact" element={<Contact />} />
+            <Route path="*" element={<NotFound />} />
           </Route>
         </Routes>
       </Router>
